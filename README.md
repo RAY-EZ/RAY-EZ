@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @RAY-EZ
-- 👀 I’m interested in creating NodeJS world
-- 🌱 I’m currently learning Microservices Architecture and Frontend Stack
-- 💞️ I’m looking to collaborate on anything related to JS 🤓😍
+- 👋 Hi, I’m Sushil Kumar
+- 💞️ I’m looking to collaborate on anything related to JS 🤓😍.
 - 🧑🏻‍💻 [My website - susheeesh.com](https://susheeesh.com)
 - 📫 sushilkumarsangh@gmail.com
 
