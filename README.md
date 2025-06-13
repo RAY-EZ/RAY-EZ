@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sushil Kumar
 - 💞️ I’m looking to collaborate on anything related to JS 🤓😍.
 - 🧑🏻‍💻 [My website - susheeesh.com](https://susheeesh.com)
-- 📫 sushilkumarsangh@gmail.com
+- 📫 dev.sushil247@gmail.com
 
 <!---
 RAY-EZ/RAY-EZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
