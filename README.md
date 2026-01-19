@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sushil Kumar
-- 💞️ I’m looking to collaborate on anything related to JS 🤓😍.
-- 🧑🏻‍💻 [My website - susheeesh.com](https://susheeesh.com)
+- 🧑🏻‍💻 [My website](https://thesushil.com)
 - 📫 dev.sushil247@gmail.com
 
 <!---
